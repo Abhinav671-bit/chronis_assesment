@@ -1,0 +1,31 @@
+{
+  "user_id": "candidate_01",
+  "domains": {
+    "fitness": {
+      "self_talk": [
+        "I am crushing my workouts this week.",
+        "Marathon training is my entire personality right now."
+      ],
+      "behavioral_logs": []
+    },
+    "social": {
+      "self_talk": [
+        "I never go out anymore.",
+        "Feeling isolated."
+      ],
+      "behavioral_logs": [
+        {"timestamp": "2026-06-08", "action": "Attended party", "magnitude": 4.0},
+        {"timestamp": "2026-06-09", "action": "Dinner with friends", "magnitude": 2.5},
+        {"timestamp": "2026-06-10", "action": "Coffee meetup", "magnitude": 1.5}
+      ]
+    },
+    "work": {
+      "self_talk": [
+        "Just one quick note about work."
+      ],
+      "behavioral_logs": [
+        {"timestamp": "2026-06-08", "action": "Sent emails", "magnitude": 1.0}
+      ]
+    }
+  }
+}

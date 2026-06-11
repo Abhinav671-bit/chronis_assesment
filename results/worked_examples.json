@@ -1,0 +1,26 @@
+{
+  "user_id": "candidate_01",
+  "domain_results": [
+    {
+      "domain": "fitness",
+      "classification": "ASPIRATION_GAP",
+      "uncertainty_score": 0.867,
+      "alignment_score": null,
+      "behavioral_volume": 0.0
+    },
+    {
+      "domain": "social",
+      "classification": "ALIGNED",
+      "uncertainty_score": 0.667,
+      "alignment_score": 0.0,
+      "behavioral_volume": 0.533
+    },
+    {
+      "domain": "work",
+      "classification": "INSUFFICIENT_EVIDENCE",
+      "uncertainty_score": 0.867,
+      "alignment_score": null,
+      "behavioral_volume": null
+    }
+  ]
+}
